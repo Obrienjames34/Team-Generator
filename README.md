@@ -18,6 +18,20 @@ When prompted for team members and their information, then an HTML is generated 
 
 To install this application, clone the code into your terminal for the respective repository. Then, install npm by entering the command npm init into the terminal. Inquirer must then be installed by entering npm install inquirer. Finally, the program can then be run by entering node develop/index.js into the command line, and answering each question appropriately.
 
-# screenshot of website:
+# Technology Used
 
-Screen Shot 2022-09-06 at 8.02.45 PM.png
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Inquirer
+- Path
+- Jest
+
+# Github:
+
+https://github.com/Obrienjames34/Team-Generator
+
+# Website:
+
+file:///Users/jamesobrien/Desktop/Obrienjames34/CHALLENGES/Team-Generator/Output/team.html
