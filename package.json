@@ -1,0 +1,25 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "Team-Generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "Employee.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obrienjames34/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obrienjames34/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/Obrienjames34/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  }
+}
